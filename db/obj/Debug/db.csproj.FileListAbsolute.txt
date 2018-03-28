@@ -1,0 +1,74 @@
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\ApplicationInsights.config
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\csc.exe
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\System.Collections.Immutable.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\vbc.exe
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\VBCSCompiler.exe
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\roslyn\VBCSCompiler.exe.config
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\db.dll.config
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\db.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\db.pdb
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.AI.Web.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.AI.WindowsServer.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.ApplicationInsights.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\MySql.Data.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.AI.Web.xml
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.AI.WindowsServer.xml
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.ApplicationInsights.xml
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\umer\documents\visual studio 2015\Projects\db\db\bin\MySql.Data.xml
+c:\users\umer\documents\visual studio 2015\Projects\db\db\obj\Debug\db.csprojResolveAssemblyReference.cache
+c:\users\umer\documents\visual studio 2015\Projects\db\db\obj\Debug\db.dll
+c:\users\umer\documents\visual studio 2015\Projects\db\db\obj\Debug\db.pdb
+C:\Users\Umer\Documents\Visual Studio 2015\Projects\db\db\obj\Debug\Interop.ADOX.dll
+C:\Users\Umer\Documents\Visual Studio 2015\Projects\db\db\obj\Debug\db.csproj.ResolveComReference.cache
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\ApplicationInsights.config
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\csc.exe
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\System.Collections.Immutable.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\System.Reflection.Metadata.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\vbc.exe
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\VBCSCompiler.exe
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\roslyn\VBCSCompiler.exe.config
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\db.dll.config
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\db.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\db.pdb
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.AI.DependencyCollector.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.AI.Web.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.AI.WindowsServer.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.ApplicationInsights.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\MySql.Data.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.AI.DependencyCollector.xml
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.AI.Web.xml
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.AI.WindowsServer.xml
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.ApplicationInsights.xml
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Semister6\WEB\WorkSpace\Projects\db\db\bin\MySql.Data.xml
+E:\Semister6\WEB\WorkSpace\Projects\db\db\obj\Debug\db.csprojResolveAssemblyReference.cache
+E:\Semister6\WEB\WorkSpace\Projects\db\db\obj\Debug\Interop.ADOX.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\obj\Debug\db.csproj.ResolveComReference.cache
+E:\Semister6\WEB\WorkSpace\Projects\db\db\obj\Debug\db.dll
+E:\Semister6\WEB\WorkSpace\Projects\db\db\obj\Debug\db.pdb

@@ -1,0 +1,191 @@
+﻿body,div,p,li,ul,dl,dt,ul,ol,li,h1,h2.h3,h4h,h5,h6,pre,form,fieldset,textarea,p,blockquote {
+    padding: 0;
+    margin: 0;
+  
+}
+.Caption
+{
+    font-size: .9em;
+    font-style: italic;
+    margin: 0;
+    padding: 4px;
+}
+.BarTable
+{
+    border: solid 1px #000000;
+    padding: 0px;
+    margin: 0px 4em 0px 4em;
+    width: 80%;
+}
+.BarTableVertical
+{
+    border: solid 1px #000000;
+    padding: 0px;
+    margin: 0px 4em 0px 4em;
+}
+.BarTable tr, .BarTableVertical tr
+{
+    vertical-align: top;
+    padding: 0px;
+    margin: 0px;
+    background-color: #00CC66;
+}
+.BarTableVertical tr td
+{
+    background-color: #CCFFFF;
+}
+.BarTable tr p, .BarTableVertical tr p
+{
+    position: relative;
+    display: inline;
+    font-size: .8em;
+    padding: 0px;
+    margin: 0px;
+    z-index: +1;
+}
+ 
+.BarFull
+{
+    background-image: url(gridline58.gif);
+    background-repeat: repeat-x;
+    background-position: left top;
+    width: 100%;
+    background-color: #CCFFFF;
+}
+.BarFull p
+{
+    margin: 0px 4px 4px 4px;
+    background-color: #FFFF99;
+    color: #000000;
+}
+.BarVertical
+{
+    height: 100%;
+    background-color: #CCFFFF;
+}
+tr.BarVertical
+{
+    vertical-align: bottom;
+    text-align: center;
+}
+.BarVertical p
+{
+    margin: 0px 4px 4px 4px;
+    background-color: #FFFF99;
+    color: #000000;
+    text-align: center;
+}
+.BarLabel
+{
+    padding: 0px 4px 0px 4px;
+    width: 2.5em;
+    font-size: .9em;
+}
+body {
+    background-color: rgb(243,243,243);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+.wrapper{
+    width:950px;
+    margin:auto;
+
+}
+h1 {
+    font-size: 40px;
+
+    font-family: "Times New Roman", Times, serif;
+      
+}
+.content{
+    width:100%;
+    background-color: rgb(224,224,224);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    min-height: 400px;
+       overflow: scroll;
+    
+    width: 950px;
+    height: 480px;
+
+}
+.menu{
+    background-color: rgb(10,110,178);
+
+    width: 100%;
+    margin: 0px 0px 10px;
+    padding: 0px;
+    height: 40px;
+       color: rgb(0, 0, 0);
+       font:bold;
+ border-radius: 5px 5px 5px 5px;
+
+}
+.naviagtion_first_item{
+    float:left;
+    border-right:1px solid rgb(10,85,125);
+    border-left:1px solid rgb(67,153,200);
+    height:40px;
+    background-color:rgb(14,79,114);
+    
+
+}
+.menu ul{
+    background-color:aqua;
+
+}
+.menu ul li{
+    float: left;
+    display:block;
+    list-style:none;
+    border-right: 1px solid rgb(10,85,125);
+    border-left: 1px solid rgb(67,153,200);
+   
+}
+.menu ul li.naviagtion_first_item:hover{
+    border-radius: 5px 0px 0px 5px;
+
+}
+.menu ul li a{
+    font-size:13px;
+    font-weight:bold;
+    line-height:40px;
+    padding:8px 20px;
+    color: rgb(0, 0, 0);
+    text-decoration:none;
+
+}
+.menu ul li:hover{
+    background-color: rgb(14,79,114);
+    border-right: 1px solid rgb(14,89,130); 
+
+}
+.clear{
+    clear:both;
+}
+.footer{
+    height:50px;
+    background-color:rgb(10,110,178);
+    color:rgb(255,255,255);
+    border-radius: 5px 5px 5px 5px;
+
+}
+.footer h2{
+    padding: 15px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+}
+
+td {
+    vertical-align: top;
+}
+#table1, #table2, #table3, #table4 {
+    display: none;
+}

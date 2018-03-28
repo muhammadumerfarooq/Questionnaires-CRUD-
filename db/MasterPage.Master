@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="db.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+           <asp:ContentPlaceHolder id="title" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+    </title>
+
+    <link href="Styles/Styles.css" rel="stylesheet" />
+   <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+  
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="../../canvasjs.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/data.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+    <style type="text/css">
+        .auto-style2 {
+            width: 76px;
+        }
+        
+    </style>
+
+</head>
+<body>
+   <form id ="form1" runat="server">
+         <div class="wrapper">
+            <div class="menu">
+                <ul>
+                   <li> <a href="Home.aspx">Home</a></li>
+                    <li class="auto-style2"> <a href="UserSignup.aspx">SignUp</a></li>
+                    <li class="auto-style2"> <a href="UserLogin.aspx">LogIn</a></li>
+                    <li class="auto-style2"> <a href="Menu.aspx">Menu</a></li>
+
+
+  
+                </ul>
+
+            </div>
+      <div class="clear">
+
+      </div>
+    <div class="content">
+
+        <asp:ContentPlaceHolder id="ContentBody" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+            <div class="clear">
+
+            </div>
+            <div class="footer">
+                <h2>@CopyrightFastNuces.com</h2>
+            </div>
+      </div>
+          </form>
+</body>
+</html>
